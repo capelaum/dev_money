@@ -1,6 +1,8 @@
-## Dev_Money
+## Dev money
 
-Simple React application for financial control.
+Simple React application for personal finances control.
+
+<img src="./.github/Capa.png" alt="Dev Money">
 
 ## Setup
 
@@ -16,7 +18,11 @@ $ yarn start
 ## Technologies
 
 - React
-- Styled Components
 - TypeScript
+- Styled Components
+
+---
 
 ## Credits
+
+Made during the Ignite Program by [RocketSeat](https://rocketseat.com.br/) 🚀

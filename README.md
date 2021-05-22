@@ -4,25 +4,27 @@ Simple React application for personal finances control.
 
 <img src="./.github/Capa.png" alt="Dev Money">
 
-## Setup
+### Setup
 
 Have `yarn` and `node` installed
 
-## Running
+### Running
 
 ```bash
 # run on port 3000
 $ yarn start
 ```
 
-## Technologies
+### Technologies
 
 - React
 - TypeScript
 - Styled Components
 
----
+### 📝 MIT License
 
-## Credits
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### Credits
 
 Made during the Ignite Program by [RocketSeat](https://rocketseat.com.br/) 🚀

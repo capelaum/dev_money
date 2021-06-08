@@ -1,12 +1,20 @@
 ## Dev money
 
-Simple React application for personal finances control.
+React application for personal finances control. 💸
 
-<img src="./.github/Capa.png" alt="Dev Money">
+Access the deployed version on Vercel: [Dev Money](https://dev-money.vercel.app/api)
+
+<div align="center">
+  <img src="./.github/Capa.png" alt="Dev Money">
+</div>
 
 ### Setup
 
-Have `yarn` and `node` installed
+Have `yarn` and `node` installed.
+
+The API route created with axios in `services/apit.ts` file is set to the deployed vercel app: https://dev-money.vercel.app/api
+
+To run locally, change it to https://localhost:3000/api
 
 ### Running
 
@@ -19,7 +27,10 @@ $ yarn start
 
 - React
 - TypeScript
+- MirageJS
+- Axios
 - Styled Components
+- react-modal
 
 ### 📝 MIT License
 

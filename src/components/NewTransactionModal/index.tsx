@@ -62,8 +62,8 @@ export function NewTransactionModal({
 
         <input
           type="text"
-          required
           placeholder="Título"
+          required
           value={title}
           onChange={event => setTitle(event.target.value)}
         />
